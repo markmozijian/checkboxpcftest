@@ -1,16 +1,19 @@
 {
-  "posts": [
+  "checkbox": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "label": "Customer consents to receiving home loan ledning disclosures to their primary email addresss",
+      "checked": true,
+      "date": "2014-01-02T11:42:13.510"
     },
     {
-      "id": 2,
-      "title": "Post 2"
+      "label": "checkbox2",
+      "checked": false,
+      "date": ""
     },
     {
-      "id": 3,
-      "title": "Post 3"
+      "label": "checkbox3",
+      "checked": true,
+      "date": "2014-01-02T11:42:13.510"
     }
   ],
   "comments": [
